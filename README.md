@@ -1,6 +1,5 @@
-🧠 Desafio:
+🧠 Desafio:Classificação de Imagens com CNN e Transfer Learning
 
-Classificação de Imagens com CNN e Transfer Learning
 Este notebook implementa e compara dois modelos de classificação de imagens usando o dataset Caltech-101 (com algumas classes removidas para balanceamento):
 
 CNN do Zero: Rede convolucional desenvolvida manualmente.
