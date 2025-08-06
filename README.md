@@ -8,6 +8,7 @@ CNN do Zero: Rede convolucional desenvolvida manualmente.
 VGG16 (Transfer Learning): Modelo pré-treinado no ImageNet com camadas finais adaptadas.
 
 Etapas do projeto:
+
 📦 Carregamento e pré-processamento das imagens (224x224)
 
 🔄 Normalização e codificação one-hot dos rótulos
